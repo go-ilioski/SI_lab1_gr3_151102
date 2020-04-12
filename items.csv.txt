@@ -1,0 +1,5 @@
+milka = {id=22, ime="milka belo", cena=55}
+pivo = {id=68, ime="zlaten dab", cena=100}
+cigari = {id=666, ime="rodeo meko stoes", cena=80}
+toaletna = {id=1, ime="perfex 24", cena=115}
+soncogled = {id=45, ime="Saluti 200gr", cena=18}
